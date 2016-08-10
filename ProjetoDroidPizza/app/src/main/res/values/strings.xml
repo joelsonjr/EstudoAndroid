@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjetoDroidPizza</string>
+    <string name="str_hello">Pizza Izidro Vialle</string>
+    <string name="str_title_pizza">Pizza</string>
+    <string name="str_sabor_presunto">Presunto - R$ 28,00</string>
+    <string name="str_sabor_portuguesa">Portuguesa - R$ 32,00</string>
+    <string name="str_sabor_camarao">Camarão - R$ 40,00</string>
+    <string name="str_titulo_bebida">Bebidas</string>
+    <string name="str_sabor_coca">coca-cola - R$ 7,00</string>
+    <string name="str_sabor_guarana">guarana - R$ 5,00</string>
+    <string name="str_iniciar_atendimento">Iniciar atendimento</string>
+    <string name="str_caller_another_activity">Chamar outra activity</string>
+</resources>
